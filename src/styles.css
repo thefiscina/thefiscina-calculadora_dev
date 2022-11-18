@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.calculadora-block {
+    background-color: #fff;
+    margin: 10px;
+    border: 1px solid #cecece;
+    height: 200px;
+    width: 200px;
+}
+
+.calculadora-block__text {
+    font-size: 14px;
+    font-weight: 200;
+    color: blue;
+    text-align: center;
+}
+
+.calculadora-block__btn{
+
+}
